@@ -11,7 +11,7 @@
 |------|-------------|
 | [command-cheatsheet.md](./command-cheatsheet.md) | Complete Linux command cheatsheet (navigation, permissions, file management) |
 | [vim-nano-cheatsheet.md](./vim-nano-cheatsheet.md) | Essential shortcuts for Vim & Nano |
-| [permissions-guide.md](./permissions-guide.md) | *(coming soon)* Guide to chmod, chown, octal notation |
+| [permissions-guide.md](./permissions-guide.md) | Guide to chmod, chown, octal notation, users & groups |
 | [lab-exercises.md](./lab-exercises.md) | *(coming soon)* Lab practice documentation |
 
 ---
