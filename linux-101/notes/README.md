@@ -10,7 +10,7 @@
 | File | Description |
 |------|-------------|
 | [command-cheatsheet.md](./command-cheatsheet.md) | Complete Linux command cheatsheet (navigation, permissions, file management) |
-| [vim-nano-cheatsheet.md](./vim-nano-cheatsheet.md) | *(coming soon)* Essential shortcuts for Vim & Nano |
+| [vim-nano-cheatsheet.md](./vim-nano-cheatsheet.md) | Essential shortcuts for Vim & Nano |
 | [permissions-guide.md](./permissions-guide.md) | *(coming soon)* Guide to chmod, chown, octal notation |
 | [lab-exercises.md](./lab-exercises.md) | *(coming soon)* Lab practice documentation |
 
